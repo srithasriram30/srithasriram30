@@ -3,8 +3,8 @@
 Software developer and tester who enjoys building things end to end, from writing the code to making sure it holds up. I've been hooked on programming since childhood, and what still excites me is how far a good idea can go with enough skill and creativity behind it.
 
 ### 🔧 What I work with
-- **Languages:** Java · Python · JavaScript/TypeScript
-- **Frontend:** React · Next.js · Vue
+- **Languages:** Java  · JavaScript/TypeScript
+- **Frontend:** React · Next.js 
 - **Tools:** Git · Linux · VS Code
 
 ### 🌱 Right now
