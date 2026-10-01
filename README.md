@@ -1,7 +1,17 @@
-Hi, I'm Sritha and I'm a software developer & tester with over 5 years of experience in all aspects of the software development lifecycle. 
+# Hi, I'm Sritha 👋
 
-I have been interested in programming since I was a child. What I enjoy the most about programming is the infinite possibilities which are only limited by a programmer's expertise and creativity.
+Software developer and tester who enjoys building things end to end, from writing the code to making sure it holds up. I've been hooked on programming since childhood, and what still excites me is how far a good idea can go with enough skill and creativity behind it.
 
-I am always eager to learn new technologies to constantly improve my skillset. I work on personal programming projects so that I can apply the skills that I have learnt.
+### 🔧 What I work with
+- **Languages:** Java · Python · JavaScript/TypeScript
+- **Frontend:** React · Next.js · Vue
+- **Tools:** Git · Linux · VS Code
 
-When I am not working, I enjoy reading and writing. 
+### 🌱 Right now
+- Deepening my full stack skills through a structured curriculum (The Odin Project, algorithms, CS fundamentals)
+- Building projects to put each new skill into practice. Check out my pinned repos!
+
+### 📫 Get in touch
+[LinkedIn](https://www.linkedin.com/in/srithasriram30/)
+
+Outside of code, I'm usually reading or writing.
